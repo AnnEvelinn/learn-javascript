@@ -11,7 +11,7 @@ This repository documents my JavaScript practice journey through daily exercises
 
 ## Progress
 
-* [ ] Day 1 - Topic
+* Day 1 ✅- JavaScript Introduction
 * [ ] Day 2 - Topic
 * [ ] Day 3 - Topic
 
